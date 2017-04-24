@@ -1,2 +1,2 @@
 # CustomAssemblyInfo
-A simple .Net (C#) application that retrieves information from the AssemblyInfo.cs
+A simple .Net (C#) console application that retrieves information from the AssemblyInfo.cs
