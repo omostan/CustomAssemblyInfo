@@ -10,7 +10,7 @@ using CustomAssemblyInfo.Properties;
 [assembly: AssemblyDescription("A test application to AssemblyInfo")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("OMOTECH")]
-[assembly: AssemblyCustomAuthor("Stanley Omoregie")]
+[assembly: AssemblyCustomAuthor("Stan Omoregie")]
 [assembly: AssemblyCustomDepartment("CMS / IT-AM")]
 [assembly: AssemblyProduct("CustomAssemblyInfo")]
 [assembly: AssemblyCopyright("Copyright © omotech 2017")]
