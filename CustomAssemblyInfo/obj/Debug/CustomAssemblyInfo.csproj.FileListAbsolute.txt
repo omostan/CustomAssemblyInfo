@@ -1,0 +1,12 @@
+D:\GitHub\AssemblyInfo\CustomAssemblyInfo\CustomAssemblyInfo\bin\Debug\CustomAssemblyInfo.exe.config
+D:\GitHub\AssemblyInfo\CustomAssemblyInfo\CustomAssemblyInfo\bin\Debug\CustomAssemblyInfo.exe
+D:\GitHub\AssemblyInfo\CustomAssemblyInfo\CustomAssemblyInfo\bin\Debug\CustomAssemblyInfo.pdb
+D:\GitHub\AssemblyInfo\CustomAssemblyInfo\CustomAssemblyInfo\obj\Debug\CustomAssemblyInfo.csprojResolveAssemblyReference.cache
+D:\GitHub\AssemblyInfo\CustomAssemblyInfo\CustomAssemblyInfo\obj\Debug\CustomAssemblyInfo.exe
+D:\GitHub\AssemblyInfo\CustomAssemblyInfo\CustomAssemblyInfo\obj\Debug\CustomAssemblyInfo.pdb
+C:\GitHub\CustomAssemblyInfo\CustomAssemblyInfo\bin\Debug\CustomAssemblyInfo.exe.config
+C:\GitHub\CustomAssemblyInfo\CustomAssemblyInfo\bin\Debug\CustomAssemblyInfo.exe
+C:\GitHub\CustomAssemblyInfo\CustomAssemblyInfo\bin\Debug\CustomAssemblyInfo.pdb
+C:\GitHub\CustomAssemblyInfo\CustomAssemblyInfo\obj\Debug\CustomAssemblyInfo.csprojResolveAssemblyReference.cache
+C:\GitHub\CustomAssemblyInfo\CustomAssemblyInfo\obj\Debug\CustomAssemblyInfo.exe
+C:\GitHub\CustomAssemblyInfo\CustomAssemblyInfo\obj\Debug\CustomAssemblyInfo.pdb
